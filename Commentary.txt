@@ -1,2 +1,0 @@
-This is a regular game of Rock Paper Scissors with your Computer.
-I have also added a counter for more interest.
