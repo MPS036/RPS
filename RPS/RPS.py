@@ -4,9 +4,9 @@ Rock-Paper-Scissors (CLI)
 A simple command-line implementation of the classic game.
 
 Features:
-- Score tracking
-- Input validation
-- Clear game loop structure
+(i) Score tracking;
+(ii) Input validation;
+(iii) Clear game loop structure.
 """
 
 import random
