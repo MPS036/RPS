@@ -11,4 +11,4 @@ This project demonstrates basic game loop structure, input validation, and simpl
 This is a basic console project focused on clean structure and simple control flow logic.
 
 ## 🛠 Requirements:
-This project uses only Python’s standard library.
+- This project uses only Python’s standard library.
